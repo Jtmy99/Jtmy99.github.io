@@ -1,2 +1,2 @@
 # Jtmy99.github.io
-This is the website for the code.
+this is the code for the website that i am currently designing.
